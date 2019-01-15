@@ -46,13 +46,13 @@
   },
   {
     "id": 10,
-    "name": "mr-burns",
-    "image":"assets/images/Mr-Burns.png"
+    "name": "Mr-Burns",
+    "image":"assets/images/mr-burns.png"
   },
   {
     "id": 11,
     "name": "Ned-Flanders",
-    "image":"assets/images/Ned-Flanders.png"
+    "image":"assets/images/ned-flanders.png"
   },
   {
     "id": 12,
