@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Apu",
+    "image":"assets/images/apu.png"
+  },
+  {
+    "id": 2,
+    "name": "Bart",
+    "image":"assets/images/bart.png"
+  },
+  {
+    "id": 3,
+    "name": "Comicbookguy",
+    "image":"assets/images/comicbookguy.png"
+  },
+  {
+    "id": 4,
+    "name": "Homer",
+    "image":"assets/images/homer.png"
+  },
+  {
+    "id": 5,
+    "name": "Itchy",
+    "image":"assets/images/itchy.png"
+  },
+  {
+    "id": 6,
+    "name": "Krusty",
+    "image":"assets/images/krusty.png"
+  },
+  {
+    "id": 7,
+    "name": "Lisa",
+    "image":"assets/images/lisa.png"
+  },
+  {
+    "id": 8,
+    "name": "Maggie",
+    "image":"assets/images/maggie.png"
+  },
+  {
+    "id": 9,
+    "name": "Marge",
+    "image":"assets/images/marge.png"
+  },
+  {
+    "id": 10,
+    "name": "mr-burns",
+    "image":"assets/images/Mr-Burns.png"
+  },
+  {
+    "id": 11,
+    "name": "Ned-Flanders",
+    "image":"assets/images/Ned-Flanders.png"
+  },
+  {
+    "id": 12,
+    "name": "Ralph-Wiggum",
+    "image":"assets/images/ralph-wiggum.png"
+  },
+  {
+    "id": 13,
+    "name": "Smithers",
+    "image":"assets/images/smithers.png"
+  }
+]
