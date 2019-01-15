@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/test-your-memory/static/js/runtime~main.24987f1f.js"
   },
   {
-    "revision": "75598c08b96a9d5169de",
-    "url": "/test-your-memory/static/js/main.75598c08.chunk.js"
+    "revision": "4c319562b0ad36024d99",
+    "url": "/test-your-memory/static/js/main.4c319562.chunk.js"
   },
   {
     "revision": "35d4967322379881d30c",
     "url": "/test-your-memory/static/js/1.35d49673.chunk.js"
   },
   {
-    "revision": "75598c08b96a9d5169de",
-    "url": "/test-your-memory/static/css/main.68389838.chunk.css"
+    "revision": "4c319562b0ad36024d99",
+    "url": "/test-your-memory/static/css/main.f7f66022.chunk.css"
   },
   {
-    "revision": "62187237bc6f2e9d40141a3490d194e9",
+    "revision": "65662a38cbcfdfc8447571803761cea0",
     "url": "/test-your-memory/index.html"
   }
 ];
